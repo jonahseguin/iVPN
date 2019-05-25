@@ -1,0 +1,8 @@
+database:
+  host: localhost
+  username: user
+  password: password
+  port: 1234
+  name: somename
+
+kick-message: "&cYou may not connect using a VPN/Proxy."
